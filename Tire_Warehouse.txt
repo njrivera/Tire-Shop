@@ -1,0 +1,13 @@
+0	185/65R14	BFGoodrich Touring T/A             $70.82      4
+1	185/65R14	Goodyear Assurance Fuel Max        $95.73      11
+2	195/70R14	Goodyear Assurance A/S             $87.00      5
+3	195/70R14	BFGoodrich Touring T/A             $74.92      8
+4	185/65R15	Michelin Defender XT               $113.52     8
+5	185/65R15	Goodyear Assurance A/S             $87.00      5
+6	195/65R15	BFGoodrich Advantage T/A           $81.52      12
+7	195/65R15	Michelin Defender XT               $109.52     12
+8	195/65R15	Michelin Premier A/S               $122.98     16
+9	195/65R15	BFGoodrich Touring T/A             $73.12      15
+10	195/65R15	Goodyear Assurance Fuel Max        $89.64      11
+11	205/65R15	Michelin Defender XT               $109.52     9
+12	225/60R16	Michelin Symmetry                  $126.25     3
